@@ -41,11 +41,11 @@ Step-by-step video where I build this project from scratch using HTML and CSS.
 
 job-listings-HTML-CSS/
 
-index.html
+-index.html
 
-style.css
+-style.css
 
-README.md
+-README.md
 
 ---
 
