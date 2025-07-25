@@ -6,7 +6,7 @@ A clean and responsive **Job Listings** webpage built using **only HTML and CSS*
 
 ## 🔗 Live Demo
 
-👉 [View Live Website](https://ayush2438.github.io/job-listings-HTML-CSS/)  
+
 📁 [GitHub Repository](https://github.com/ayush2438/job-listings-HTML-CSS)
 
 ---
