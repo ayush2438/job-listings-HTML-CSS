@@ -40,10 +40,9 @@ Step-by-step video where I build this project from scratch using HTML and CSS.
 ## 📂 Folder Structure
 
 job-listings-HTML-CSS/
+
 ├── index.html
-
 ├── style.css
-
 ├── README.md
 
 ---
